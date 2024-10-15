@@ -75,7 +75,6 @@ Soy estudiante apasionada por la **tecnología**, la **programación** y la **an
 
 ¡Sigue mis proyectos para ver mis avances! Siempre estoy abierta a colaboraciones y nuevas ideas. 🚀
 
-)  
 - **GitHub:** [VOspinaQ](https://github.com/VOspinaQ)
 
 ---
