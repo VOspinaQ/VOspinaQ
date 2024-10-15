@@ -28,13 +28,6 @@ Soy estudiante apasionada por la **tecnología**, la **programación** y la **an
 
 ---
 
-## 📈 **Estadísticas de GitHub**
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=VOspinaQ&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VOspinaQ&layout=compact&theme=radical)
-
----
-
 ## 🌱 **Gracias por visitar mi perfil**  
 
 ¡Sigue mis proyectos para ver mis avances! Siempre estoy abierta a colaboraciones y nuevas ideas. 🚀
@@ -44,12 +37,6 @@ Soy estudiante apasionada por la **tecnología**, la **programación** y la **an
 
 ---
 
-## 📈 **Estadísticas de GitHub**
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=VOspinaQ&show_icons=true&theme=radical)  
-![Linguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VOspinaQ&layout=compact&theme=radical)
-
----
 
 ## 🌱 **Gracias por visitar mi perfil**  
 
