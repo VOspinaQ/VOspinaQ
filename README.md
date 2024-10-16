@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<img src="https://github.com/VOspinaQ/VOspinaQ/blob/main/1.png?raw=true" alt="Banner Verónica Ospina Quintero" style="width: 100%; border-radius: 10px;"/>
+<img src="https://github.com/VOspinaQ/VOspinaQ/blob/main/Diseño sin título.png?raw=true" alt="Banner Verónica Ospina Quintero" style="width: 100%; border-radius: 10px;"/>
 
 # 👋 ¡Hola! Soy Verónica Ospina Quintero
 
